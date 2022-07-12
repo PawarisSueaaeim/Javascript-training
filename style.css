@@ -1,0 +1,9 @@
+.content {
+    display: block;
+    margin: 5em;
+}
+
+.container {
+    padding: 5px;
+    margin: 5px;
+}
